@@ -1,5 +1,6 @@
 {
   "version": 2,
   "public": true,
+  "name": "possible-life",
   "trailingSlash": true
 }
